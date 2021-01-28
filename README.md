@@ -43,7 +43,7 @@ ADoBo shared task is aimed at participants working in code-mixed data and those 
 * February, 15: Sample set, Evaluation script and Annotation Guidelines released.
 * March, 15: Training set released.
 * April,  5: Development set released.
-* April, 26: Test set released (includes background set).
+* April, 26: Test set released.
 * May,   17: Systems output submissions.
 * May,   21: Results posted and Test set with GS annotations released.
 * May,   31: Working notes paper submission.
