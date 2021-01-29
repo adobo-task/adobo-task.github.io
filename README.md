@@ -35,7 +35,7 @@ It should be noted that the evaluation for the final ranking will be done exclus
 
 
 # How to participate?
-ADoBo shared task is aimed at participants working in code-mixed data and those interested in the intersection of neology, lexicography and NLP. The dataset distribution and participant's submissions will be managed via CodaLab. 
+ADoBo shared task is aimed at participants working in code-mixed data and those interested in the intersection of neology, lexicography and NLP. The dataset distribution and submissions will be managed via CodaLab. Participants (and anyone interested in the topic of borrowing detection) are welcome to join the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
 
 
 # Schedule
@@ -61,4 +61,6 @@ ADoBo shared task is aimed at participants working in code-mixed data and those 
 
 # Contact person
 
-Elena Álvarez Mellado (ealvarezmellado@gmail.com)
+* Participants can ask any questions about the task through the Google group: [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
+
+* Elena Álvarez Mellado (ealvarezmellado@gmail.com)
