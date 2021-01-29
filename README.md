@@ -1,5 +1,5 @@
 # What is ADoBo?
-ADoBo is the shared task on *automatic detection of borrowings*. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _cliffhanger_). 
+ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _cliffhanger_). 
 
 The task will run from February 2021 to June 2021 and is part of [IberLEF 2021](https://sites.google.com/view/iberlef2021/), which will take place in September 2021 in Spain.
 
@@ -19,7 +19,7 @@ The task of extracting emergent lexical borrowings is a more challenging underta
 
 Finally, linguistic adaptation is a diachronic proccess and, as a result, what constitutes an unadapted borrowing is not clear-cut. For example, words like _bar_ or _club_ were unadapted lexical borrowings in Spanish at some point in the past, but have been around for so long in the Spanish language that the process of phonological and morphological adaptation is now complete and they cannot be considered unadapted borrowings anymore. On the other hand, _realia_ words, that is, culture-specific elements whose name entered via the language of origin decades ago (like _jazz_ or _whisky_) cannot be considered emergent anymore, even when their orthography has not been adapted into the Spanish spelling system. 
 
-# The shared task
+# ADoBo shared task
 A corpus of Spanish newswire will be distributed among participants. The articles will be annotated with direct, unadapted, emerging lexical borrowings, i.e. lexical borrowings that have recently been imported into Spanish language (such as _look_, _hype_, _youtuber_ or _lawfare_). Borrowings will be annotated with BIO labels with two possible categories: ``ENG`` for English borrowings and ``OTHER`` for lexical borrowings from other languages (non lexical borrowings will have the tag ``O``). Only unadapted lexical borrowings will be considered. This means that borrowings that have already gone through orthographical or morphological adaption (such _fútbol_ or _hackear_) will not be labeled as borrowings. 
 
 Participants will be provided with annotated versions of the training and development set, and an unannotated test set. Participants are expected to submit the annotated test set produced by their system.  
@@ -53,14 +53,14 @@ ADoBo shared task is aimed at participants working in code-mixed data and those 
 
 # Organization Committee
 
-* Elena Álvarez-Mellado, USC Information Sciences Institute, US.
-* Luis Espinosa-Anke, School of Computer Science and Informatics, Cardiff University, UK. 
-* Julio Gonzalo Arroyo, Universidad Nacional de Educación a Distancia, Spain.
-* Constantine Lignos, Brandeis University, US.
+* [Elena Álvarez-Mellado](https://lirondos.github.io/), USC Information Sciences Institute, US.
+* [Luis Espinosa-Anke](https://luis-espinosa-anke.jimdosite.com/), School of Computer Science and Informatics, Cardiff University, UK. 
+* [Julio Gonzalo Arroyo](https://sites.google.com/view/nlp-uned/people/julio-gonzalo), Universidad Nacional de Educación a Distancia, Spain.
+* [Constantine Lignos](https://lignos.org/), Brandeis University, US.
 * Jordi Porta-Zamorano, Centro de Estudios de la RAE, Spain.
 
-# Contact person
+# Contact
 
-* Participants can ask any questions about the task through the Google group: [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
+* Participants are encouraged to ask any questions through: [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
 
-* Elena Álvarez Mellado (ealvarezmellado@gmail.com)
+* Elena Álvarez Mellado [ealvarezmellado@gmail.com](mailto:adobo-task@googlegroups.com)
