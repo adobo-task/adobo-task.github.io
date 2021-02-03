@@ -21,7 +21,20 @@ The task of extracting emergent lexical borrowings is a more challenging underta
 Finally, linguistic adaptation is a diachronic proccess and, as a result, what constitutes an unadapted borrowing is not clear-cut. For example, words like _bar_ or _club_ were unadapted lexical borrowings in Spanish at some point in the past, but have been around for so long in the Spanish language that the process of phonological and morphological adaptation is now complete and they cannot be considered unadapted borrowings anymore. On the other hand, _realia_ words, that is, culture-specific elements whose name entered via the language of origin decades ago (like _jazz_ or _whisky_) cannot be considered emergent anymore, even when their orthography has not been adapted into the Spanish spelling system. 
 
 ## ADoBo shared task
+We propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like running, smartwatch, influencer or youtuber).
+
 A corpus of Spanish newswire will be distributed among participants. The articles will be annotated with **direct, unadapted, emerging lexical borrowings**, i.e. lexical borrowings that have been imported into Spanish language and that haven't been assimilated yet (words such as _look_, _hype_, _cliffhanger_ or _lawfare_). Borrowings will be annotated with BIO labels with two possible categories: ``ENG`` for English borrowings and ``OTHER`` for lexical borrowings from other languages (non lexical borrowings will have the tag ``O``). Only unadapted lexical borrowings will be considered. This means that borrowings that have already gone through orthographical or morphological adaption (such _fútbol_ or _hackear_) will not be labeled as borrowings. 
+
+```
+El O
+escándalo O
+de O
+las O
+tarjetas O
+' O
+black B-ENG
+' O
+```
 
 Participants will be provided with annotated versions of the training and development set, and an unannotated test set. Participants are expected to submit the annotated test set produced by their system.  
 
