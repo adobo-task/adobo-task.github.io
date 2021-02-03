@@ -1,4 +1,4 @@
-# ADoBo. A shared task on Automatic Detection of Borrowings at IberLEF 2021
+# ADoBo — Automatic Detection of Borrowings 
 ## What is ADoBo?
 ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_). 
 
