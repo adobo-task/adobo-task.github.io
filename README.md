@@ -7,7 +7,9 @@ ADoBo is the shared task on **automatic detection of borrowings**. For the first
 The task will run from **February 2021 to June 2021** and is part of [IberLEF 2021](https://sites.google.com/view/iberlef2021/), which will take place in September 2021 in Spain.
 
 ## Dataset
-A corpus of Spanish newswire will be distributed among participants. The articles will be annotated with **direct, unadapted, emerging lexical borrowings**, i.e. lexical borrowings that have been imported into Spanish language and that haven't been assimilated yet (words such as _look_, _hype_, _cliffhanger_ or _lawfare_). Borrowings will be annotated with BIO labels with two possible categories: ``ENG`` for English borrowings and ``OTHER`` for lexical borrowings from other languages (non lexical borrowings will have the tag ``O``). Only unadapted lexical borrowings will be considered. This means that borrowings that have already gone through orthographical or morphological adaption (such _fútbol_ or _hackear_) will not be labeled as borrowings. [Annotation guidelines can be found here](https://adobo-task.github.io/docs/guidelines.pdf).
+A corpus of Spanish newswire will be distributed among participants. The articles will be annotated with **direct, unadapted, emerging lexical borrowings**, i.e. lexical borrowings that have been imported into Spanish language and that haven't been assimilated yet (words such as _look_, _hype_, _cliffhanger_ or _lawfare_). [Annotation guidelines can be found here](https://adobo-task.github.io/docs/guidelines.pdf).
+
+Borrowings will be annotated with BIO labels with two possible categories: ``ENG`` for English borrowings and ``OTHER`` for lexical borrowings from other languages (non lexical borrowings will have the tag ``O``). Only unadapted lexical borrowings will be considered. This means that borrowings that have already gone through orthographical or morphological adaption (such _fútbol_ or _hackear_) will not be labeled as borrowings. 
 
 ```
 El O
