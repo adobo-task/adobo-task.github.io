@@ -22,7 +22,9 @@ black B-ENG
 ' O
 ```
 
-Participants will be provided with annotated versions of the training and development set, and an unannotated test set. Participants are expected to submit the annotated test set produced by their system. [A sample set](https://github.com/adobo-task/adobo-2021/tree/main/corpus) has been made available. The aim of this sample set is for participants to get familiar with the dataset format.
+Participants will be provided with annotated versions of the training and development set, and an unannotated test set. Participants are expected to submit the annotated test set produced by their system. 
+
+[A sample set](https://github.com/adobo-task/adobo-2021/tree/main/corpus) has been made available. The purpose of this sample set is for participants to get familiar with the dataset format.
 
 ## Evaluation
 Submissions will be evaluated using the standard precision, recall and F1 over spans:
@@ -60,7 +62,7 @@ SeqScore is being continuously updated, so you can always run `pip install -U se
 
 ## Schedule
 
-* February, 15: [Sample set](https://github.com/adobo-task/adobo-2021/tree/main/corpus), [Evaluation script](https://github.com/bltlab/seqscore) and [Annotation Guidelines](https://adobo-task.github.io/docs/guidelines.pdf) released.
+* ---February, 15---: [Sample set](https://github.com/adobo-task/adobo-2021/tree/main/corpus), [Evaluation script](https://github.com/bltlab/seqscore) and [Annotation Guidelines](https://adobo-task.github.io/docs/guidelines.pdf) released.
 * March, 15: Training set released.
 * April,  5: Development set released.
 * April, 26: Test set released.
