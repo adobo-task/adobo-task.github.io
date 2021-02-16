@@ -6,3 +6,4 @@ show_downloads: true
 github:
   codalab: https://competitions.codalab.org/competitions/28771
   google_group: https://groups.google.com/g/adobo-task
+  guidelines: https://adobo-task.github.io/docs/guidelines.pdf
