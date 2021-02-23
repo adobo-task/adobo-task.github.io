@@ -1,6 +1,6 @@
 # ADoBo — Automatic Detection of Borrowings 
 ## What is ADoBo?
-ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_). 
+ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_). Participants will be provided a corpus of Spanish newswire annotated with lexical borrowings, and will have to create  systems that can automatically detect lexical borrowings from Spanish newswire.
 
 [[What is a lexical borrowing? Why is borrowing detection an interesting task?]](https://adobo-task.github.io/borrowing.html)
 
