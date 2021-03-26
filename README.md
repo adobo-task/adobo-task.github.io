@@ -63,9 +63,9 @@ SeqScore is being continuously updated, so you can always run `pip install -U se
 ## Schedule
 
 * ~~February, 15~~: [Sample set](https://github.com/adobo-task/adobo-2021/tree/main/corpus), [Evaluation script](https://github.com/bltlab/seqscore) and [Annotation Guidelines](https://adobo-task.github.io/docs/guidelines.pdf) released.
-* March, 15: Training set released.
+* ~~March, 15~~: Training set released.
 * April,  5: Development set released.
-* April, 26: Test set released.
+* May, 17: Test set released.
 * May,   17: Systems output submissions.
 * May,   21: Results posted and Test set with GS annotations released.
 * May,   31: Working notes paper submission.
