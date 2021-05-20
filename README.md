@@ -75,16 +75,16 @@ SeqScore is being continuously updated, so you can always run `pip install -U se
 
 ## Results
 
-| Rank | Team         | Tag                 | Precision               | Recall                  | F1                      |
-|------|--------------|---------------------|-------------------------|-------------------------|-------------------------|
-| 1    | marrouviere  | ALL<br>ENG<br>OTHER | 88.81<br>90.70<br>47.06 | 81.56<br>82.65<br>52.17 | 85.03<br>86.49<br>49.48 |
-| 2    | marrouviere  | ALL<br>ENG<br>OTHER | 89.40<br>90.98<br>45.45 | 66.30<br>67.55<br>32.61 | 76.14<br>77.54<br>37.97 |
-| 3    | marrouviere  | ALL<br>ENG<br>OTHER | 92.28<br>93.43<br>38.89 | 61.40<br>63.12<br>15.22 | 73.75<br>75.34<br>21.88 |
-| 4    | versae       | ALL<br>ENG<br>OTHER | 62.76<br>62.97<br>45.45 | 46.30<br>47.62<br>10.87 | 53.29<br>54.23<br>17.54 |
-| 5    | mgrafu       | ALL<br>ENG<br>OTHER | 65.15<br>65.31<br>50.00 | 37.82<br>38.90<br>08.69 | 47.86<br>48.76<br>14.81 |
-| 6    | Neakail      | ALL<br>ENG<br>OTHER | 75.27<br>75.43<br>60.00 | 27.47<br>28.25<br>6.52  | 40.25<br>41.10<br>11.76 |
-| 7    | Neakail      | ALL<br>ENG<br>OTHER | 76.29<br>76.48<br>60.00 | 25.29<br>25.99<br>6.52  | 37.99<br>38.80<br>11.76 |
-| 8    | Neakail      | ALL<br>ENG<br>OTHER | 76.44<br>76.64<br>60.00 | 24.75<br>25.42<br>6.52  | 37.39<br>38.18<br>11.76 |
+| Rank | Team         | Tag                 | Precision               | Recall                  | F1                          |
+|------|--------------|---------------------|-------------------------|-------------------------|-----------------------------|
+| 1    | marrouviere  | ALL<br>ENG<br>OTHER | 88.81<br>90.70<br>47.06 | 81.56<br>82.65<br>52.17 | **85.03**<br>86.49<br>49.48 |
+| 2    | marrouviere  | ALL<br>ENG<br>OTHER | 89.40<br>90.98<br>45.45 | 66.30<br>67.55<br>32.61 | **76.14**<br>77.54<br>37.97 |
+| 3    | marrouviere  | ALL<br>ENG<br>OTHER | 92.28<br>93.43<br>38.89 | 61.40<br>63.12<br>15.22 | **73.75**<br>75.34<br>21.88 |
+| 4    | versae       | ALL<br>ENG<br>OTHER | 62.76<br>62.97<br>45.45 | 46.30<br>47.62<br>10.87 | **53.29**<br>54.23<br>17.54 |
+| 5    | mgrafu       | ALL<br>ENG<br>OTHER | 65.15<br>65.31<br>50.00 | 37.82<br>38.90<br>08.69 | **47.86**<br>48.76<br>14.81 |
+| 6    | Neakail      | ALL<br>ENG<br>OTHER | 75.27<br>75.43<br>60.00 | 27.47<br>28.25<br>6.52  | **40.25**<br>41.10<br>11.76 |
+| 7    | Neakail      | ALL<br>ENG<br>OTHER | 76.29<br>76.48<br>60.00 | 25.29<br>25.99<br>6.52  | **37.99**<br>38.80<br>11.76 |
+| 8    | Neakail      | ALL<br>ENG<br>OTHER | 76.44<br>76.64<br>60.00 | 24.75<br>25.42<br>6.52  | **37.39**<br>38.18<br>11.76 |
 
 ## How to participate?
 ADoBo shared task is aimed at participants working in **code-mixed data** and those interested in the intersection of **neology, lexicography and NLP**. The dataset distribution and submissions will be managed via [CodaLab](https://competitions.codalab.org/competitions/28771). 
