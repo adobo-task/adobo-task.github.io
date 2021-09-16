@@ -1,5 +1,18 @@
 # ADoBo — Automatic Detection of Borrowings 
 
+## Results of ADoBo 2021
+Results of ADoBo shared task 2021 can be checked out on the following publications: 
+
+### Participating systems
+- _[The futility of STILTs for classification of lexical borrowings in Spanish](http://ceur-ws.org/Vol-2943/adobo_paper2.pdf)_, Javier de la Rosa  
+- _[Detection of Borrowings in the Spanish Language Using Pseudo-label Technology](http://ceur-ws.org/Vol-2943/adobo_paper1.pdf)_, Shengyi Jiang, Tong Cui, Yingwen Fu, Nankai Lin and Jieyi Xiang
+
+### Task overview
+- _[Overview of ADoBo 2021: Automatic Detection of Unassimilated Borrowings in the Spanish Press](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6396)_, Elena Álvarez Mellado, Luis Espinosa Anke, Julio Gonzalo Arroyo, Constatine Lignos, Jordi Porta Zamorano
+
+
+
+
 ## ADoBo session at IberLEF 2021
 We will be holding a session on ADoBo as part of [IberLEF 2021 workshop](https://sites.google.com/view/iberlef2021/workshop). The session will happen on **September 21st at 11.00am-12.30 (CEST)** and will be held online. 
 
