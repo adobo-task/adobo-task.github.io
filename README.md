@@ -1,4 +1,10 @@
 # ADoBo — Automatic Detection of Borrowings 
+
+## ADoBo session at IberLEF 2021
+We will be holding a session on ADoBo as part of [IberLEF 2021 workshop](https://sites.google.com/view/iberlef2021/workshop). The session will happen on **September 21st at 11.00am-12.30 (CEST)** and will be held online. 
+
+[More information on ADoBo session here](https://adobo-task.github.io/schedule.html)
+
 ## What is ADoBo?
 ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_). Participants will be provided a corpus of Spanish newswire annotated with lexical borrowings, and will have to create  systems that can automatically detect lexical borrowings from Spanish newswire.
 
@@ -68,10 +74,10 @@ SeqScore is being continuously updated, so you can always run `pip install -U se
 * ~~May, 10~~: Test set released.
 * ~~May,   17~~: Systems output submissions.
 * ~~May,   20~~: Results posted and Test set with GS annotations released.
-* May,   31: Working notes paper submission.
-* June,  14: Notification of acceptance (peer-reviews).
-* June,  28: Camera ready paper submission.
-* September: IberLEF 2021 Workshop.
+* ~~May,   31~~: Working notes paper submission.
+* ~~June,  14~~: Notification of acceptance (peer-reviews).
+* ~~June,  28~~: Camera ready paper submission.
+* September, 21: ADoBo session at IberLEF 2021.
 
 ## Results
 
