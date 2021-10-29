@@ -1,5 +1,8 @@
 # ADoBo session at IberLEF 2021  
 
+[![ADoBo session at IberLEF 2021](https://adobo-task.github.io/img/youtube.png)](https://youtu.be/k6w9Kbv5-Is)
+
+
 We will be holding a session on ADoBo as part of [IberLEF 2021](https://sites.google.com/view/iberlef2021/workshop). The session will happen online on **September 21st at 11.00am-12.30 (CEST)** and will include an invited talk on codeswitching by [prof. Constantine Lignos](https://lignos.org/) from Brandeis University. 
 
 We invite IberLEF-SEPLN participants to join the session to learn about the results of 2021 ADoBo shared task and to discuss about lexical borrowing detection and codeswitching. You can find the information on how to register at [IberLEF 2021 website](https://sites.google.com/view/iberlef2021/workshop).
