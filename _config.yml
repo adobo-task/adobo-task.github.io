@@ -4,7 +4,8 @@ description: A shared task on Automatic Detection of Borrowings at IberLEF 2021
 show_downloads: true
 
 github:
-  session: https://youtu.be/k6w9Kbv5-Is
-  codalab: https://competitions.codalab.org/competitions/28771
+  2021_edition: https://adobo-task.github.io/2021.html
+  #session: https://youtu.be/k6w9Kbv5-Is
+  #codalab: https://competitions.codalab.org/competitions/28771
   google_group: https://groups.google.com/g/adobo-task
-  guidelines: https://adobo-task.github.io/docs/guidelines.pdf
+  #guidelines: https://adobo-task.github.io/docs/guidelines.pdf

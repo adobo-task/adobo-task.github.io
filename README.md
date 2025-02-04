@@ -1,24 +1,7 @@
 # ADoBo — Automatic Detection of Borrowings 
 
-## Results of ADoBo 2021
-Results of ADoBo shared task 2021 can be checked out on the following publications: 
 
-### Participating systems
-- _[The futility of STILTs for classification of lexical borrowings in Spanish](http://ceur-ws.org/Vol-2943/adobo_paper2.pdf)_, Javier de la Rosa  
-- _[Detection of Borrowings in the Spanish Language Using Pseudo-label Technology](http://ceur-ws.org/Vol-2943/adobo_paper1.pdf)_, Shengyi Jiang, Tong Cui, Yingwen Fu, Nankai Lin and Jieyi Xiang
-
-### Task overview
-- _[Overview of ADoBo 2021: Automatic Detection of Unassimilated Borrowings in the Spanish Press](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6396)_, Elena Álvarez Mellado, Luis Espinosa Anke, Julio Gonzalo Arroyo, Constatine Lignos, Jordi Porta Zamorano
-
-
-
-
-## ADoBo session at IberLEF 2021
-We will be holding a session on ADoBo as part of [IberLEF 2021 workshop](https://sites.google.com/view/iberlef2021/workshop). The session will happen on **September 21st at 11.00am-12.30 (CEST)** and will be held online. 
-
-**[More information on ADoBo session here](https://adobo-task.github.io/schedule.html)**
-
-## What is ADoBo?
+## What is ADoBo 2021?
 ADoBo is the shared task on **automatic detection of borrowings**. For the first edition of ADoBo, we propose a shared task on detecting direct, unadapted, emerging borrowings in the Spanish press, i.e. detecting lexical borrowings that appear in the Spanish press and that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_). Participants will be provided a corpus of Spanish newswire annotated with lexical borrowings, and will have to create  systems that can automatically detect lexical borrowings from Spanish newswire.
 
 [[What is a lexical borrowing? Why is borrowing detection an interesting task?]](https://adobo-task.github.io/borrowing.html)
@@ -92,18 +75,6 @@ SeqScore is being continuously updated, so you can always run `pip install -U se
 * ~~June,  28~~: Camera ready paper submission.
 * September, 21: ADoBo session at IberLEF 2021.
 
-## Results
-
-| Rank | Team         | Tag                 | Precision               | Recall                  | F1                          |
-|------|--------------|---------------------|-------------------------|-------------------------|-----------------------------|
-| 1    | marrouviere  | ALL<br>ENG<br>OTHER | 88.81<br>90.70<br>47.06 | 81.56<br>82.65<br>52.17 | **85.03**<br>86.49<br>49.48 |
-| 2    | marrouviere  | ALL<br>ENG<br>OTHER | 89.40<br>90.98<br>45.45 | 66.30<br>67.55<br>32.61 | **76.14**<br>77.54<br>37.97 |
-| 3    | marrouviere  | ALL<br>ENG<br>OTHER | 92.28<br>93.43<br>38.89 | 61.40<br>63.12<br>15.22 | **73.75**<br>75.34<br>21.88 |
-| 4    | versae       | ALL<br>ENG<br>OTHER | 62.76<br>62.97<br>45.45 | 46.30<br>47.62<br>10.87 | **53.29**<br>54.23<br>17.54 |
-| 5    | mgrafu       | ALL<br>ENG<br>OTHER | 65.15<br>65.31<br>50.00 | 37.82<br>38.90<br>08.69 | **47.86**<br>48.76<br>14.81 |
-| 6    | Neakail      | ALL<br>ENG<br>OTHER | 75.27<br>75.43<br>60.00 | 27.47<br>28.25<br>6.52  | **40.25**<br>41.10<br>11.76 |
-| 7    | Neakail      | ALL<br>ENG<br>OTHER | 76.29<br>76.48<br>60.00 | 25.29<br>25.99<br>6.52  | **37.99**<br>38.80<br>11.76 |
-| 8    | Neakail      | ALL<br>ENG<br>OTHER | 76.44<br>76.64<br>60.00 | 24.75<br>25.42<br>6.52  | **37.39**<br>38.18<br>11.76 |
 
 ## How to participate?
 ADoBo shared task is aimed at participants working in **code-mixed data** and those interested in the intersection of **neology, lexicography and NLP**. The dataset distribution and submissions will be managed via [CodaLab](https://competitions.codalab.org/competitions/28771). 
@@ -124,3 +95,6 @@ Participants (and anyone interested in the topic of borrowing detection) are wel
 * Participants are encouraged to ask any questions through: [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
 
 * Elena Álvarez Mellado [ealvarezmellado[@]gmail.com](mailto:adobo-task@googlegroups.com)
+
+
+[Back to ADoBO home](https://adobo-task.github.io/)
