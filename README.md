@@ -34,7 +34,7 @@ TBA
 
 
 ## How to participate?
-ADoBo shared task is aimed at participants working in **code-mixed data** and those interested in the intersection of **neology, lexicography and NLP**. Information about how to join the shared task will be posted on this website and on the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
+Information about how to join the shared task will be posted on this website and on the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
 
 
 ## Organization Committee
