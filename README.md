@@ -6,10 +6,10 @@ ADoBo is the shared task on **automatic detection of borrowings**. In 2025 we wi
 
 For this second edition of ADoBo we will propose a shared task on detecting anglicisms in Spanish text, i.e. [words borrowed](https://adobo-task.github.io/borrowing.html) especifically from English that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_).
 
-The task will run from **February 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
+The task will run from **March 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
  
 
-Stay tuned for more information about the task.
+[Stay tuned](mailto:adobo-task@googlegroups.com) for more information about the task.
 
 
 
@@ -21,15 +21,15 @@ TBA
 
 
 
-## Schedule
+## Tentaive Schedule
 
 
-* ~~April,  23~~: Test set released.
-* ~~May,   19~~: Systems output submissions.
-* ~~May,   26~~: Results posted and Test set with GS annotations released.
-* ~~June,   2~~: Working notes paper submission.
-* ~~June,  16~~: Notification of acceptance (peer-reviews).
-* ~~June,  23~~: Camera ready paper submission.
+* April,  23: Test set released.
+* May,   19: Systems output submissions.
+* May,   26: Results posted and Test set with GS annotations released.
+* June,   2: Working notes paper submission.
+* June,  16: Notification of acceptance (peer-reviews).
+* June,  23: Camera ready paper submission.
 * September: ADoBo session at IberLEF 2025.
 
 
@@ -39,7 +39,7 @@ ADoBo shared task is aimed at participants working in **code-mixed data** and th
 
 ## Organization Committee
 
-* [Elena Álvarez-Mellado](https://lirondos.github.io/), USC Information Sciences Institute, USA.
+* [Elena Álvarez-Mellado](https://lirondos.github.io/), Universidad Nacional de Educación a Distancia, Spain.
 * [Julio Gonzalo Arroyo](https://sites.google.com/view/nlp-uned/people/julio-gonzalo), Universidad Nacional de Educación a Distancia, Spain.
 * [Constantine Lignos](https://lignos.org/), Brandeis University, USA.
 * Jordi Porta-Zamorano, Centro de Estudios de la RAE, Spain.
