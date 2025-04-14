@@ -31,15 +31,15 @@ The correct output should be:
 
 There is no official training set for ADoBo 2025 task. On the contrary, participants are allowed to use _any_ available resource they may want to use to create their models: dictionaries, lexicons, existing datasets, etc. (including [the COALAS dataset from the 2021 shared task](https://github.com/lirondos/coalas)). 
 
-> :warning:  
-> **The 2021 edition of ADoBo shared task consisted in retrieving both anglicisms (which were labeled as ENG) as well as other lexical borrowings originated in other languages (labeled as OTHER). For the 2025 shared task we are focusing *exclusively* on retrieving anglicisms. We advise participants to bear this in mind if they reuse any of the available resources from the 2021 edition.**
-
 
 All flavours of anglicism detection systems are welcome: rule-based approaches, classic machine learning, deep learning, generative models, etc. We encourage participants to explore any LLMs they wish for this task. The more varied the systems proposed are, the more we will learn about the task.   
 
+> **The 2021 edition of ADoBo shared task consisted in retrieving both anglicisms (which were labeled as ENG) as well as other lexical borrowings originated in other languages (labeled as OTHER) using BIO format. For the 2025 shared task we are framing the problem as a span-based task (the expected output is a span of text) and we are focusing *exclusively* on retrieving anglicisms. We advise participants to bear this in mind if they reuse any of the available resources from the 2021 edition.**
+
+
 
 ## Dataset
-The test set will be released on *April 23rd*. A dev set will also be released to guide participants.
+The test set will be released on **April 23rd**. A dev set will also be released to guide participants.
 
 ## Evaluation
 The evaluation script will be released along with the test set. 
