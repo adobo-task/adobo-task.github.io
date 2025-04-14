@@ -68,10 +68,10 @@ Information about how to join the shared task will be posted on this website and
 
 ## Organization Committee
 
-* [Elena Álvarez-Mellado](https://lirondos.github.io/), Universidad Nacional de Educación a Distancia, Spain.
-* [Julio Gonzalo Arroyo](https://sites.google.com/view/nlp-uned/people/julio-gonzalo), Universidad Nacional de Educación a Distancia, Spain.
-* [Constantine Lignos](https://lignos.org/), Brandeis University, USA.
-* Jordi Porta-Zamorano, Centro de Estudios de la RAE, Spain.
+* [Elena Álvarez-Mellado](https://lirondos.github.io/), Universidad Nacional de Educación a Distancia (UNED).
+* [Julio Gonzalo Arroyo](https://sites.google.com/view/nlp-uned/people/julio-gonzalo), Universidad Nacional de Educación a Distancia (UNED).
+* [Constantine Lignos](https://lignos.org/), Brandeis University.
+* Jordi Porta-Zamorano, Universidad Autónoma de Madrid (UAM).
 
 ## Contact
 
