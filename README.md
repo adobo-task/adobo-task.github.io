@@ -2,26 +2,51 @@
 
 
 ## What is ADoBo 2025?
-ADoBo is the shared task on **automatic detection of borrowings**. In 2025 we will hold the second edition of ADoBo at [IberLEF 2025](https://sites.google.com/view/iberlef-2025/). The first edition was held in [2021](https://adobo-task.github.io/2021.html).
+ADoBo is the shared task on **automatic detection of borrowings**. In 2025 we are holding the second edition of ADoBo at [IberLEF 2025](https://sites.google.com/view/iberlef-2025/). The first edition was held in [2021](https://adobo-task.github.io/2021.html).
 
-For this second edition of ADoBo we will propose a shared task on detecting anglicisms in Spanish text, i.e. [words borrowed](https://adobo-task.github.io/borrowing.html) especifically from English that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_).
-
-The task will run from **March 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
+The task will run from **April 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
  
 
 [Stay tuned](mailto:adobo-task@googlegroups.com) for more information about the task.
 
+## The 2025 task 
+For this second edition of ADoBo we propose a shared task on retrieving **anglicisms** from Spanish text, i.e. [words borrowed](https://adobo-task.github.io/borrowing.html) especifically from English that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_).  
+
+
+The test set will consist of a collection of sentences written in European Spanish from the journalistic domain. Participants will be required to run their systems on the given sentences and return the anglicism spans in the sentence. For example, given the sentence: 
+
+```
+"Al no tener equipo de ventas, ni 'country managers' ni hacer mucho marketing, no tenemos grandes costes."
+
+```
+
+The correct output should be: 
+
+```
+
+"Al no tener equipo de ventas, ni 'country managers' ni hacer mucho marketing, no tenemos grandes costes.";country managers;marketing
+
+```
+
+
+There is no official training set for ADoBo 2025 task. On the contrary, participants are allowed to use _any_ available resource they may want to use to create their models: dictionaries, lexicons, existing datasets, etc. (including [the COALAS dataset from the 2021 shared task](https://github.com/lirondos/coalas)). 
+
+> [!WARNING]  
+> The 2021 shared task consisted in retrieving both anglicisms (which were label as ENG) as well as other lexical borrowings originated in other languages (labeled as OTHER). For the 2025 shared task we are focusing *exclusively* on retrieving anglicisms.
+
+
+All flavours of anglicism detection systems are welcome: rule-based approaches, classic machine learning, deep learning, generative models, etc. We encourage participants to explore any LLMs they wish for this task. The more varied the systems proposed are, the more we will learn about the task.   
 
 
 ## Dataset
-TBA
+The test set will be released on *April 23rd*. A dev set will also be released to guide participants.
 
 ## Evaluation
-TBA
+The evaluation script will be released along with the test set. 
 
 
 
-## Tentaive Schedule
+## Tentative Schedule
 
 
 * April,  23: Test set released.
@@ -35,6 +60,10 @@ TBA
 
 ## How to participate?
 Information about how to join the shared task will be posted on this website and on the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
+
+## Additional info 
+* [Annotation guidelines can be found here](https://adobo-task.github.io/docs/guidelines.pdf).
+* [What is lexical borrowing?](https://adobo-task.github.io/borrowing.html)
 
 
 ## Organization Committee
