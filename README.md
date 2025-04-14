@@ -2,7 +2,7 @@
 
 
 ## What is ADoBo 2025?
-ADoBo is the shared task on **automatic detection of borrowings**. In 2025 we are holding the second edition of ADoBo at [IberLEF 2025](https://sites.google.com/view/iberlef-2025/). The first edition was held in [2021](https://adobo-task.github.io/2021.html).
+ADoBo is the shared task on **automatic detection of borrowings**, that is, automatically retrieving words from one language that are incorporated into another language (see [What is lexical borrowing?](https://adobo-task.github.io/borrowing.html)). In 2025 we are holding the second edition of ADoBo at [IberLEF 2025](https://sites.google.com/view/iberlef-2025/). The first edition was held in [2021](https://adobo-task.github.io/2021.html).
 
 The task will run from **April 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
  
@@ -31,8 +31,8 @@ The correct output should be:
 
 There is no official training set for ADoBo 2025 task. On the contrary, participants are allowed to use _any_ available resource they may want to use to create their models: dictionaries, lexicons, existing datasets, etc. (including [the COALAS dataset from the 2021 shared task](https://github.com/lirondos/coalas)). 
 
-> [!WARNING]  
-> The 2021 shared task consisted in retrieving both anglicisms (which were label as ENG) as well as other lexical borrowings originated in other languages (labeled as OTHER). For the 2025 shared task we are focusing *exclusively* on retrieving anglicisms.
+> :warning:  
+> **The 2021 edition of ADoBo shared task consisted in retrieving both anglicisms (which were labeled as ENG) as well as other lexical borrowings originated in other languages (labeled as OTHER). For the 2025 shared task we are focusing *exclusively* on retrieving anglicisms. We advise participants to bear this in mind if they reuse any of the available resources from the 2021 edition.**
 
 
 All flavours of anglicism detection systems are welcome: rule-based approaches, classic machine learning, deep learning, generative models, etc. We encourage participants to explore any LLMs they wish for this task. The more varied the systems proposed are, the more we will learn about the task.   
