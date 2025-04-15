@@ -39,22 +39,38 @@ All flavours of anglicism detection systems are welcome: rule-based approaches, 
 
 
 ## Dataset
-The test set will be released on **April 23rd**. A dev set will also be released to guide participants.
+The dataset for ADoBo 2025 will consist of a collection of sentences from the journalistic domain written in European Spanish. Each sentence in the dataset may contain one anglicism, several anglicisms or none.
+
+The dev set will be released on **April 21**. The test set will be released on **May 6th**.
 
 ## Evaluation
-The evaluation script will be released along with the test set. 
+The evaluation for ADoBo 2025 shared task  is **span based evaluation**. This means that the expected output is a span of text, not BIO-encoded token annotations (unlike the 2021 edition). The CSV format that the scoring script expects is semicolon separated values: 
 
+```
+sentence;span1;span2;span3;etc
+```
+
+The scoring script makes the following assumptions: 
+
+* Casing of the output span is disregarded (_SMARTWATCH_ and _smartwatch_ will both match, regardless of which way it was written in the input sentence).
+
+* Trailing quotation marks in the output span are disregarded (_"smartwatch"_ and _smartwatch_ will both match, regardless of which way it was written in the input sentence).
+
+* If the same span appears twice in the sentence, it suffices for it to appear once in the output to be considered a match.
+
+These assumptions are made in order to accommodate the participation of LLM-based solutions to the task.
 
 
 ## Tentative Schedule
 
 
-* April,  23: Test set released.
-* May,   19: Systems output submissions.
-* May,   26: Results posted and Test set with GS annotations released.
-* June,   2: Working notes paper submission.
-* June,  16: Notification of acceptance (peer-reviews).
-* June,  23: Camera ready paper submission.
+* April 21: Dev set released.
+* May 6: Test set released.
+* May 19: Systems output submissions.
+* May 26: Results posted and Test set with GS annotations released.
+* June 2: Working notes paper submission.
+* June 16: Notification of acceptance (peer-reviews).
+* June 23: Camera ready paper submission.
 * September: ADoBo session at IberLEF 2025.
 
 
