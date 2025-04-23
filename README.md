@@ -4,10 +4,9 @@
 ## What is ADoBo 2025?
 ADoBo is the shared task on **automatic detection of borrowings**, that is, automatically retrieving words from one language that are incorporated into another language (see [What is lexical borrowing?](https://adobo-task.github.io/borrowing.html)). In 2025 we are holding the second edition of ADoBo at [IberLEF 2025](https://sites.google.com/view/iberlef-2025/). The first edition was held in [2021](https://adobo-task.github.io/2021.html).
 
-The task will run from **April 2025 to June 2025** and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
+The task runs from **April 2025 to June 2025** [on Codabench](https://www.codabench.org/competitions/7284/) and is part of [IberLEF 2025](https://sites.google.com/view/iberlef-2025/), which will take place in September 2025 in Zaragoza, Spain.
  
 
-[Stay tuned](mailto:adobo-task@googlegroups.com) for more information about the task.
 
 ## The 2025 task 
 For this second edition of ADoBo we propose a shared task on retrieving **anglicisms** from Spanish text, i.e. [words borrowed](https://adobo-task.github.io/borrowing.html) especifically from English that have recently been imported into the Spanish language (words like _running_, _smartwatch_, _influencer_ or _youtuber_).  
@@ -43,6 +42,8 @@ The dataset for ADoBo 2025 will consist of a collection of sentences from the jo
 
 The dev set will be released on **April 21**. The test set will be released on **May 6th**.
 
+**Dev set now available [on Codabench](https://www.codabench.org/competitions/7284/)**
+
 ## Evaluation
 The evaluation for ADoBo 2025 shared task  is **span based evaluation**. This means that the expected output is a span of text, not BIO-encoded token annotations (unlike the 2021 edition). The CSV format that the scoring script expects is semicolon separated values: 
 
@@ -64,7 +65,7 @@ These assumptions are made in order to accommodate the participation of LLM-base
 ## Tentative Schedule
 
 
-* April 21: Dev set released.
+* April 21: [Dev set released on Codabench](https://www.codabench.org/competitions/7284/).
 * May 6: Test set released.
 * May 19: Systems output submissions.
 * May 26: Results posted and Test set with GS annotations released.
@@ -75,7 +76,9 @@ These assumptions are made in order to accommodate the participation of LLM-base
 
 
 ## How to participate?
-Information about how to join the shared task will be posted on this website and on the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
+To gain access to the data, make submissions and check the leaderboard please join the competition [on Codabench](https://www.codabench.org/competitions/7284/).
+
+Information about the shared task will also be posted on this website and on the Google group at [adobo-task[@]googlegroups.com](mailto:adobo-task@googlegroups.com)
 
 ## Additional info 
 * [Annotation guidelines can be found here](https://adobo-task.github.io/docs/guidelines.pdf).
