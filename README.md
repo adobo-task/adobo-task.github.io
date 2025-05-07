@@ -66,10 +66,9 @@ These assumptions are made in order to accommodate the participation of LLM-base
 
 
 * April 21: [Dev set released on Codabench](https://www.codabench.org/competitions/7284/).
-* May 6: Test set released.
-* May 19: Systems output submissions.
-* May 26: Results posted and Test set with GS annotations released.
-* June 2: Working notes paper submission.
+* ~~May 6~~ May 12: Test set released.
+* ~~May 19~~ May 26: Systems output submissions.
+* ~~June 2~~ June 9: Working notes paper submission.
 * June 16: Notification of acceptance (peer-reviews).
 * June 23: Camera ready paper submission.
 * September: ADoBo session at IberLEF 2025.
